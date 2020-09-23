@@ -1,0 +1,4 @@
+Username   Password        Database pasword
+					
+Admin      admin		rbp
+User       user
